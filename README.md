@@ -94,8 +94,3 @@ enjoy it.
 -keep class com.amap.api.fence.**{*;}
 -keep class com.autonavi.aps.amapapi.model.**{*;}
 ```
-
-# Ad
-我的[动漫周边淘宝店]( https://shop238932691.taobao.com/) ，希望亲可以关注下(dan)：
-
-![二维码](https://img.alicdn.com/imgextra/i1/769720206/TB2AnBVar0kpuFjy0FjXXcBbVXa_!!769720206.png)
